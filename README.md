@@ -43,5 +43,5 @@ Python Twitter tools - http://mike.verdone.ca/twitter/
 * Better structure for choosing the cron job way or the sleep process way
 
 
-# RELATED PROJECTS
+# Related projects
 * eliza.py (http://www.jezuk.co.uk/cgi-bin/view/software/eliza)
