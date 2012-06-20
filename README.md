@@ -23,8 +23,9 @@ sandrobot
 The idea comes from here
 http://blog.vivekhaldar.com/post/2830035130/how-to-write-a-twitter-bot-in-python
 
-Any feedback about the code can
-be directed to my email address: dblancoit@gmail.com
+Why? http://thesoftjaguar.com/blog/post10/ (sorry, it is in spanish).
+
+Any feedback about the code can be directed to my email address: dblancoit@gmail.com
 
 The bot sentences are in spanish, sorry about that but it was a spanish bot. I have set it up quickly for a friend and I thought that it could be interesting to put it on github for everyone.
 
