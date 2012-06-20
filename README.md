@@ -31,19 +31,16 @@ The bot sentences are in spanish, sorry about that but it was a spanish bot. I h
 Follow me on twitter: @darioblanco
 
 
-# DEPENDENCIES
+# Dependencies
 Python Twitter tools - http://mike.verdone.ca/twitter/
 
     sudo easy_install twitter
 
 
-# THINGS TO IMPROVE
-* Comments
-* Better structure for choosing the cron job way or the sleep process way
-
-
 # TODO
 * A generic bot
+* Improve comments
+* Better structure for choosing the cron job way or the sleep process way
 
 
 # RELATED PROJECTS
