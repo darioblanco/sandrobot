@@ -35,7 +35,7 @@ Follow me on twitter: @darioblanco
 # Dependencies
 Python Twitter tools - http://mike.verdone.ca/twitter/
 
-    sudo easy_install twitter
+    easy_install twitter
 
 
 # TODO
